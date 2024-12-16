@@ -1,0 +1,11 @@
+[package]
+name = "rtsp-extractor-rs"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+glib = "0.20.6"
+gstreamer = "0.23.3"
+gstreamer-app = "0.23.3"
+gstreamer-video = "0.23.3"
+png = "0.17.15"
